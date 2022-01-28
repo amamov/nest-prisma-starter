@@ -4,6 +4,16 @@
 - [Prisma](https://www.prisma.io/docs/concepts/components/prisma-schema/data-model)
 - [Passport](https://www.passportjs.org/)
 
+## getting start
+
+1. `npm i`
+
+2. `npm run prisma generate`
+
+3. `npm run start:dev`
+
+4. `npm run db:studio`
+
 ## .env
 
 ```python
